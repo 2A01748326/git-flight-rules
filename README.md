@@ -2049,3 +2049,5 @@ function Squash-Commits {
 * [gmaster](https://gmaster.io/) - a Git client for Windows that has 3-way merge, analyze refactors, semantic diff and merge (beta)
 * [gitk](https://git-scm.com/docs/gitk) - a Git client for linux to allow simple view of repo state.
 * [SublimeMerge](https://www.sublimemerge.com/) - Blazing fast, extensible client that provides 3-way merges, powerful search and syntax highlighting, in active development.
+* [GitLab is a good option to github][https://gitlab.com]
+* A new line
